@@ -25,7 +25,7 @@
 Este projeto tem como objetivo criar um ebook digital utilizando as facilidades proporcionadas pelas ferramentas de IA. Utilizei como base o repositório Git do professor [Felipe Aguiar](https://github.com/felipeAguiarCode).Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/MatheusDSantossi/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/MatheusDSantossi/prompts-recipe-to-create-an-ebook/blob/main/output/Ebook%20-%20Frontend%20vs.%20Backend%20Duelo%20C%C3%B3smico%20na%20Terra%20do%20Fullstack.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
